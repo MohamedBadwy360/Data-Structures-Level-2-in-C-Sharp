@@ -4,7 +4,7 @@
 
 This Repository contains Labs, Assignments, Projects and Certificate for [Data Structures Level 2 in C#](https://programmingadvices.com/courses) course from Programming Advices Platform by Eng Mohamed Abu Hadhood. This repo is for my perosnal reference.
 
-The course is about `Data Structures in C#`.
+The course is about `Data Structures(Collections) in C# & LINQ`.
 
 ---
 
